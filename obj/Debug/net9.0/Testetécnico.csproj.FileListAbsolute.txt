@@ -1,0 +1,14 @@
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\bin\Debug\net9.0\Testetécnico.exe
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\bin\Debug\net9.0\Testetécnico.deps.json
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\bin\Debug\net9.0\Testetécnico.runtimeconfig.json
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\bin\Debug\net9.0\Testetécnico.dll
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\bin\Debug\net9.0\Testetécnico.pdb
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.AssemblyInfoInputs.cache
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.AssemblyInfo.cs
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.dll
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\refint\Testetécnico.dll
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.pdb
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\Testetécnico.genruntimeconfig.cache
+C:\Users\Wallace Albuquerque\Desktop\Testetécnico\obj\Debug\net9.0\ref\Testetécnico.dll
