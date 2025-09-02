@@ -1,0 +1,28 @@
+using System;
+
+class Trococafe
+{
+    static void Main()
+    {
+        double precoCafe = 2.50;
+        double moeda1, moeda2, total, troco;
+
+        Console.Write("Insira a primeira moeda: R$ ");
+        moeda1 = double.Parse(Console.ReadLine());
+
+        Console.Write("Insira a segunda moeda: R$ ");
+        moeda2 = double.Parse(Console.ReadLine());
+
+        total = moeda1 + moeda2;
+        troco = total - precoCafe;
+
+     Console.WriteLine();
+        Console.WriteLine("Moedas inseridas: " + moeda1.ToString("0.00") + " + " + moeda2.ToString("0.00"));
+        Console.WriteLine("Valor total: R$ " + total.ToString("0.00"));
+
+        if (troco > 0)
+            Console.WriteLine("Troco: R$ " + troco.ToString("0.00"));
+        else
+            Console.WriteLine("Troco: R$ 0.00");
+    }
+}
