@@ -1,0 +1,3 @@
+Estou fazendo um cadastro de usuários em Java e minha função salva o email e a senha direto no banco. 
+Sei que isso não é seguro. Me explica de um jeito simples como guardar senhas de forma segura, 
+tipo usando bibliotecas confiáveis em Java. Quero entender o que fazer sem arriscar a segurança. quero entender o passo a passo que foi realizado"
